@@ -1,0 +1,22 @@
+.main-container{
+  display: flex;
+  justify-content: center;
+  
+}
+
+input{
+  width: 100%;
+}
+.items-container{
+
+  text-align: left;
+  margin: 10px;
+}
+button{
+  width: 100px;
+  margin: 20px;
+  padding: 0px;
+}
+.todo-row{
+  margin: 10px 5px;
+}

@@ -1,0 +1,26 @@
+.kg-items{
+  background-color: rgb(25, 57, 163);
+  
+  border-radius: 0%;
+  list-style: none;
+ height: 50px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ 
+ 
+
+  border: 1px solid rgb(205, 205, 205);
+}
+.kg-span{
+   
+  font-weight: 500;
+  padding: 5px;
+  color: rgb(216, 216, 216);
+  
+}
+.button{
+   float: right;
+}
+.backGround{
+  background-color: blueviolet;
+}

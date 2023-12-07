@@ -1,0 +1,22 @@
+.conTainer{
+  display: flex;
+  justify-content: center;
+}
+.InPutButtion{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 192px;
+  
+  margin: 5px;
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.buttonStyle{
+  width: 60px;
+  height: 60px;
+  margin: 2px;
+}
